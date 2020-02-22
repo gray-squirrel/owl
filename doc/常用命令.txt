@@ -1,0 +1,1 @@
+mysqldump -h localhost -u root -p squirrel >D:\iwork\squirrel\doc\sql\01-05.sql
